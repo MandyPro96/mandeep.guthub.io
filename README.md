@@ -1,1 +1,1 @@
-# mandeep.guthub.io
+# mandeep.github.io
